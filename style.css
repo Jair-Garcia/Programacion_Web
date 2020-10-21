@@ -1,0 +1,59 @@
+/*Background define el color de fondo, text-aling define la alineacion del texto*/
+.color{
+    background-color: brown;
+    text-align: center;
+}
+
+/*Margin nos permite definir el margen del contenedor*/
+.heade{
+background-color: lightcyan;
+margin: auto;
+
+}
+/*Font-size permite modificar el tamaño de la fuente mostrada*/
+.pruebaGrande{
+
+    color: greenyellow;
+    font: oblique bold 120% cursive;
+    font-size: x-large;
+
+}
+/*en pading es la distancia que hay entre el contenido y el contenedor*/
+.contorno{
+    border: 2cm;
+    margin: 1px;
+    background-color: blueviolet;
+    height: 100px;
+    padding: 10px;
+
+}
+/*el display es un elemento para controlar las estructuras*/
+.display{
+    display: grid;
+    border: 2cm;
+    margin: 1px;
+    background-color:lightblue;
+    height: 100px;
+    padding: 10px;
+}
+.prueba_grande{
+    text-align: center;
+    background-color: coral;
+    
+}
+.naranja{
+color: darkorange;
+background-color: cornsilk;
+text-align: right;
+
+}
+
+.prueba{
+text-align: end;
+background-color: darkgreen;
+
+}
+/*Color nos permite cambiar el color de la letra*/
+#rojo{
+    color: crimson;
+}
